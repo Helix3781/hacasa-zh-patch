@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.DS_Store
+.env
+
+# 打补丁时临时用的官方原版文件，不入库
+hacasa-nova.js
+hacasa-nova-zh.js
+*.bak
+*.bak-*
